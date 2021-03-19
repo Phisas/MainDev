@@ -16,13 +16,13 @@
 - Register their mobile phone number and verify the number (where possible) by sending a random verification number.
 - Place where the patient lives.
 
-1. Expected APP functions: 
+2. Expected APP functions: 
  - The Second health worker's device scanning the vaccine would include location data (health center location)
  - Health workers administering the vaccine would have access to a normal personal device (maintsined for this purpose by the health center, data/ network traffic).
 
-2. Assumptions: All vaccines delivered would have a form of vile identification or batch/ box identification with either a barcode/ QR-code or some sort of a serial number like any other medication.
+3. Assumptions: All vaccines delivered would have a form of vile identification or batch/ box identification with either a barcode/ QR-code or some sort of a serial number like any other medication.
 
-3. Patient privacy information is handled by a central public health administrator either by jurisdiction or nationally for access to statistical information.
+4. Patient privacy information is handled by a central public health administrator either by jurisdiction or nationally for access to statistical information.
 
 # Post inoculation data APP functions.
 
@@ -42,3 +42,5 @@
  9. AIIS can be adjusted to fulfill other important health information requirements and may provide a standardized reporting system which could be used to facilitate movement of people nationally and across borders.
 10. The Applications adds significant credibility over paper issued vaccination certificates.
 
+## Current Status
+The Link to run the APP: https://phisas.com/app/installation
