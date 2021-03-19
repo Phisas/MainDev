@@ -43,4 +43,4 @@
 10. The Applications adds significant credibility over paper issued vaccination certificates.
 
 ## Current Status
-The Link to run the APP: https://phisas.com/app/installation
+The Link to run the APP: https://phisas.com/app/demo
