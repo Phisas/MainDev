@@ -1,6 +1,6 @@
 {
-    "name": "php_mysql_login_register",
-    "short_name": "php_mysql_login_register",
+    "name": "phisas",
+    "short_name": "phisas",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
